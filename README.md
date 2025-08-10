@@ -1,2 +1,3 @@
-# Telecom_X_LATAM_Predict
-Challenge Curso Alura Latam predicción evasión de clientes
+# DESAFÍO Telecom X (Parte 2)
+!http://googleusercontent.com/image_generation_content/0
+
