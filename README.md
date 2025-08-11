@@ -1,11 +1,11 @@
 # DESAFÍO Telecom X (Parte 2)
-# 📊 Predicción de Abandono de Clientes — Proyecto Data Science
+# Predicción de Abandono de Clientes — Proyecto Data Science
 
 Este proyecto presenta un flujo completo y reproducible para predecir el abandono de clientes (churn) en una empresa de telecomunicaciones. Desde la limpieza de datos hasta la predicción individual, cada etapa está documentada y estructurada para facilitar su comprensión, evaluación y reutilización.
 
 ---
 
-## 🧩 Estructura del Proyecto
+## Estructura del Proyecto
 
 El trabajo se divide en capítulos temáticos, cada uno con su propio bloque de código, explicación y tabla resumen:
 
@@ -23,7 +23,7 @@ Cada capítulo incluye una tabla Markdown con los cambios realizados y justifica
 
 ---
 
-## 🧠 Metodología
+## Metodología
 
 El enfoque sigue una lógica **step-by-step**, asegurando que cada transformación sea:
 
@@ -35,7 +35,7 @@ Se prioriza la claridad pedagógica, ideal para enseñanza, revisión técnica o
 
 ---
 
-## 📈 Gráficos y Visualizaciones
+## Gráficos y Visualizaciones
 
 El proyecto incluye visualizaciones clave para facilitar la interpretación:
 
@@ -52,7 +52,7 @@ El proyecto incluye visualizaciones clave para facilitar la interpretación:
 
 ---
 
-## 🧪 Función de Predicción
+## Función de Predicción
 
 La función `predecir_cliente()` permite aplicar el modelo a nuevos casos, encapsulando todo el pipeline:
 
@@ -63,7 +63,7 @@ def predecir_cliente(df_cliente):
 
 ---
 
-## 🚀 Cómo Ejecutar
+## Cómo Ejecutar
 
 - Clona el repositorio  
 - Abre el notebook principal  
@@ -72,7 +72,7 @@ def predecir_cliente(df_cliente):
 
 ---
 
-## 📚 Aplicaciones
+## Aplicaciones
 
 Este proyecto puede adaptarse fácilmente a:
 
@@ -83,7 +83,7 @@ Este proyecto puede adaptarse fácilmente a:
 
 ---
 
-## 🧾 Autor
+## Autor
 
 Proyecto desarrollado por Mauricio Flores Z, con enfoque didáctico, reproducible y orientado a evaluación técnica.
 
