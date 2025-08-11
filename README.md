@@ -19,7 +19,7 @@ El trabajo se divide en capítulos temáticos, cada uno con su propio bloque de 
 | 6️⃣ Modelado | Entrenamiento y evaluación de modelos (Random Forest, etc.) |
 | 7️⃣ Predicción | Función para predicción individual y visualización |
 
-Cada capítulo incluye una tabla Markdown con los cambios realizados y justificación técnica.
+e incluye un capítulo adicional para generar la función que permita predecir la probabilidad de abandono de un cliente nuevo
 
 ---
 
@@ -31,8 +31,6 @@ El enfoque sigue una lógica **step-by-step**, asegurando que cada transformaci�
 - Justificada  
 - Compatible con el pipeline final  
 
-Se prioriza la claridad pedagógica, ideal para enseñanza, revisión técnica o integración en entornos productivos.
-
 ---
 
 ## Gráficos y Visualizaciones
@@ -43,12 +41,13 @@ El proyecto incluye visualizaciones clave para facilitar la interpretación:
   ![Gráfico SMOTE](img/grafico_smote.png)
 
 - **Importancia de variables en el modelo final**  
-  ![Importancia de Features](img/feature_importance.png)
+  ![Importancia de Features](img/importancia_variables_modelo_final.png)
 
 - **Probabilidad de abandono para cliente individual**  
-  ![Predicción Individual](img/prediccion_individual.png)
+  ![Predicción cliente_actual](img/probabilidad_abandono_cliente_123.png)
 
-> *Nota: Las rutas deben ajustarse según la ubicación de tus imágenes en el repositorio.*
+- **Predicción de abandono para cliente nuevo**  
+  ![Predicción nuevo cliente](img/grafico_probabilidad_abandono.png)
 
 ---
 
